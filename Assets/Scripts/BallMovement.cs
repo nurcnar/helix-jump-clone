@@ -35,7 +35,7 @@ public class BallMovement : MonoBehaviour
             return;
         onAir = false;
         rb.velocity = Vector3.zero;
-        rb.AddForce(Vector3.up * 800f);
+        rb.AddForce(Vector3.up * 1200f);
         onAir = true;
         ignoreNextCollision = true;
         Invoke("ChangeBool", .2f);

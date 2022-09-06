@@ -1,4 +1,4 @@
-# STAJ
+# Helix Jump Clone
 
 Oyun Helix Jump isimli hyper casual türündeki oyunun klonudur.
 
